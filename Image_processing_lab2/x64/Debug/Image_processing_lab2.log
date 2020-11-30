@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OI_lab2\Image_processing_lab2\Image_processing_lab2\main.cpp(16,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\OI_lab2\Image_processing_lab2\Image_processing_lab2\main.cpp(17,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Image_processing_lab2.vcxproj -> D:\OI_lab2\Image_processing_lab2\x64\Debug\Image_processing_lab2.exe
